@@ -16,12 +16,9 @@
           <LI>첫번째 변경 진행함.</LI>
           <LI>첫번째 변경 후 add, commit 진행, push 안함.</LI>
           <LI>두번째 변경 진행함.</LI>
-<<<<<<< HEAD
           <LI>user1 실습 1</LI>
           <LI>user2 실습 2</LI>
-=======
-          <LI>tkdgus update 2</LI>
->>>>>>> 28ab0e6df4417ed953889878a48253cb7619bfab
+          <LI>merge commit 실습.</LI>
       </OL>
   </DIV> 
 </body>
