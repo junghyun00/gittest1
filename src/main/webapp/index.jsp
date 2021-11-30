@@ -20,6 +20,10 @@
           <LI>user2 실습 2</LI>
           <LI>merge commit 실습.</LI>
           <LI>merge commit 실습2</LI>
+          <LI>junghyun 실습 1</LI>
+          <LI>junghyun 실습 2</LI>
+          <LI>tkdgus li add 4:56분</LI>
+          <LI>dongmin add 5:00</LI>
       </OL>
   </DIV> 
 </body>
