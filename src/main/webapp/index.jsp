@@ -22,6 +22,7 @@
           <LI>merge commit 실습2</LI>
           <LI>junghyun 실습 1</LI>
           <LI>junghyun 실습 2</LI>
+          <li>tkdgus li add 4:56분</li>
       </OL>
   </DIV> 
 </body>
