@@ -18,6 +18,7 @@
           <LI>두번째 변경 진행함.</LI>
           <LI>user1 실습 1</LI>
           <LI>user2 실습 2</LI>
+          <LI>merge commit 실습.</LI>
       </OL>
   </DIV> 
 </body>
