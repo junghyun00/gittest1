@@ -13,18 +13,9 @@
   <DIV style="margin: 50px;">
       <H1>깃 테스트</H1>
       <OL>
-          <LI>첫번째 변경 진행함.</LI>
-          <LI>첫번째 변경 후 add, commit 진행, push 안함.</LI>
-          <LI>두번째 변경 진행함.</LI>
-          <LI>user1 실습 1</LI>
-          <LI>user2 실습 2</LI>
-          <LI>merge commit 실습.</LI>
-          <LI>merge commit 실습2</LI>
-          <LI>junghyun 실습 1</LI>
-          <LI>junghyun 실습 2</LI>
-          <LI>tkdgus li add 4:56분</LI>
-          <LI>dongmin add 5:00</LI>
-          <LI>junghyun add 5:10</LI>
+           <LI>PL, CD 충돌 해결</LI>
+          <LI>WP 충돌 해결 </LI>
+          <LI>DA, AI 충돌 해결</LI>
       </OL>
   </DIV> 
 </body>
