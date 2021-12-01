@@ -13,7 +13,7 @@
   <DIV style="margin: 50px;">
       <H1>깃 테스트</H1>
       <OL>
-           <LI>PL, CD 충돌 해결</LI>
+          <LI>PL, CD 충돌 해결</LI>
           <LI>WP 충돌 해결 </LI>
           <LI>DA, AI 충돌 해결</LI>
       </OL>
